@@ -9,12 +9,23 @@
     <img height="20" src="https://img.shields.io/github/followers/Daisuke106?label=follow&logo=github&style=flat" />
   </a>
   <a href="http://qiita.com/Daisuke_106">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/Keichan_15/posts.svg" />
+    <img height="20" src="https://qiita-badge.apiapi.app/s/Daisuke_106/posts.svg" />
   </a>
   <a href="http://qiita.com/Daisuke_106">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/Keichan_15/contributions.svg" />
+    <img height="20" src="https://qiita-badge.apiapi.app/s/Daisuke_106/contributions.svg" />
   </a>
 </p>
+
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daisuke106&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Daisuke106&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Daisuke106&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Daisuke106&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Daisuke106&theme=gruvbox&utcOffset=9)
+
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=Daisuke106&theme=gruvbox)
+
 
 
 <!--
