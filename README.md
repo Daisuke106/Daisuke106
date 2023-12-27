@@ -26,6 +26,9 @@
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=Daisuke106&theme=gruvbox)
 
+## Skill
+![](https://skillicons.dev/icons?i=html,css,js,py,django,php,aws,kotlin)
+
 ![](https://raw.githubusercontent.com/Daisuke106/Daisuke106/output/github-contribution-grid-snake.svg)
 
 
